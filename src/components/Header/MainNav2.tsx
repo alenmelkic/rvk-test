@@ -31,7 +31,7 @@ const MainNav2: FC<MainNav2Props> = ({ menuItems, description, title }) => {
       >
         <Input
           type="search"
-          placeholder="Type to search..."
+          placeholder="Unesite ključne riječi"
           className="pr-5 md:pr-10 !w-40 md:!w-full group-hover:border-neutral-300 dark:group-hover:border-neutral-400 dark:placeholder:text-neutral-400"
           sizeClass="h-[42px] pl-4 py-3"
           name="search"
